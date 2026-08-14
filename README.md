@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Rupali Kale banner" width="100%" />
+  <img src="banner.svg" alt="Rupali Kale banner" width="100%" />
 </div>
 
 <div align="center">
