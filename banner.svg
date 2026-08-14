@@ -1,0 +1,33 @@
+<svg width="1500" height="280" viewBox="0 0 1500 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1126"/>
+      <stop offset="50%" stop-color="#113c54"/>
+      <stop offset="100%" stop-color="#07595e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="280" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="280" fill="#2dd4bf"/>
+  <circle cx="1300" cy="60" r="2" fill="#ffffff" opacity="0.35"/>
+  <circle cx="1360" cy="120" r="2" fill="#ffffff" opacity="0.3"/>
+  <circle cx="1420" cy="70" r="2" fill="#ffffff" opacity="0.3"/>
+  <circle cx="1250" cy="160" r="2" fill="#ffffff" opacity="0.25"/>
+  <circle cx="1400" cy="200" r="2" fill="#ffffff" opacity="0.25"/>
+  <text x="70" y="110" font-family="Verdana, Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff">Rupali Kale</text>
+  <text x="70" y="150" font-family="Verdana, Arial, sans-serif" font-size="24" fill="#b8e9e3">Data Analyst  •  M.Sc. Statistics</text>
+  <text x="70" y="185" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#d2e1e6">Turning messy data into clear, actionable insight</text>
+  <g font-family="Verdana, Arial, sans-serif" font-size="16" fill="#ffffff">
+    <rect x="70" y="205" width="72" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="88" y="227">Python</text>
+    <rect x="154" y="205" width="52" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="170" y="227">SQL</text>
+    <rect x="218" y="205" width="90" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="234" y="227">Power BI</text>
+    <rect x="320" y="205" width="98" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="336" y="227">Statistics</text>
+    <rect x="430" y="205" width="168" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="446" y="227">Machine Learning</text>
+    <rect x="610" y="205" width="62" height="34" rx="17" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="626" y="227">Excel</text>
+  </g>
+</svg>
