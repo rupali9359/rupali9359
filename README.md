@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/rupali-kale-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rsk.mstat.2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://rupali9359.github.io"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
+      <a href="https://rupali9359.github.io"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
 ### Hi, I'm Rupali 👋
